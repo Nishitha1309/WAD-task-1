@@ -1,0 +1,9 @@
+<html>
+ <table cellspacing=15>
+ <tr><td> <a href="Suspence.html" target="f32">Suspence </a></td></tr>
+ <tr><td><a href="Thriller.html" target="f32"> Thriller </a> </td></tr>
+ <tr><td><a href="Horror.html" target="f32">Horror </a></td></tr>
+ <tr><td><a href="Poetry.html" target="f32"> Peotry </a> </td></tr>
+ </table>
+ </body>
+</html>
